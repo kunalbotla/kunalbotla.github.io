@@ -1,16 +1,16 @@
-# [projects.kunalbotla.com](https://projects.kunalbotla.com)
+# [projects.kunalbotla.com](//projects.kunalbotla.com)
 ***
 ## General
-### [Photos](https://projects.kunalbotla.com/photos/)
+### [Photos](//projects.kunalbotla.com/photos/)
 
-### [Lexington Police](https://projects.kunalbotla.com/lexington-police/)
-### [7927 LiMITless Logo](https://projects.kunalbotla.com/7927-limitless-logo/)
-### [DebateTimer](https://projects.kunalbotla.com/DebateTimer/)
-### [Blueprint 2020 Learnathon](/blueprint-2020) [Blueprint 2020 Project](/blueprint-2020-project)
+### [Lexington Police](//projects.kunalbotla.com/lexington-police/)
+### [7927 LiMITless Logo](//projects.kunalbotla.com/7927-limitless-logo/)
+### [DebateTimer](//projects.kunalbotla.com/DebateTimer/)
+### [Blueprint 2020 Learnathon](//projects.kunalbotla.com/blueprint-2020) / [Blueprint 2020 Project](//projects.kunalbotla.com/blueprint-2020-project)
 
 
 ## Project Boom
-### [projectboom.org](https://projectboom.org)
+### [projectboom.org](//projectboom.org)
 
 
 
@@ -19,5 +19,5 @@
 
 
 ## Acera
-### [History of England](https://projects.kunalbotla.com/History-of-England)
-### [FoodSearch](/FoodSearch)
+### [History of England](//projects.kunalbotla.com/History-of-England)
+### [FoodSearch](//projects.kunalbotla.com/FoodSearch)
