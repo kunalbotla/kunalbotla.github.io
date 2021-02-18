@@ -16,7 +16,7 @@
 
 ## Lexington High School
 ### [Lexington Debate](//projects.kunalbotla.com/lexington-debate)
-### [Lexington High School Senate](//projects.kunalbotla.com/lhs-senate)
+### [Lexington High School Student-Faculty Senate](//projects.kunalbotla.com/lhs-senate)
 
 
 ## Acera
