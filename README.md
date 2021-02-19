@@ -1,6 +1,6 @@
 # [projects.kunalbotla.com](//projects.kunalbotla.com)
 
-This is an index of all my projects. Each project has it's own GitHub repo building a GitHub Pages site from it's README.md or an index.html. 
+This is an index of all my projects. Each project has it's own GitHub repo building a GitHub Pages site from it's README.md or an index.html. It's maintained as frequently as possible.
 
 ## General
 ### [Photos](//projects.kunalbotla.com/photos/)
