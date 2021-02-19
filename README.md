@@ -8,11 +8,11 @@ This is an index of all my projects. Each project has it's own GitHub repo build
 ### [Lexington Police](//projects.kunalbotla.com/lexington-police/)
 ### [7297 LiMITless Logo](//projects.kunalbotla.com/7297-limitless-logo/) (2019)
 ### [DebateTimer](//projects.kunalbotla.com/DebateTimer/) (2017)
-### [Blueprint 2020 Learnathon](//projects.kunalbotla.com/blueprint-2020) / [Blueprint 2020 Project](//projects.kunalbotla.com/blueprint-2020-project)
+### [Blueprint 2020 Learnathon](//projects.kunalbotla.com/blueprint-2020) / [Blueprint 2020 Project](//projects.kunalbotla.com/blueprint-2020-project) (2020)
 
 
 ## [Project Boom](//projects.kunalbotla.com/projectboom)
-All my work and projects related to Project Boom are detailed on it's own page.
+All my work and projects related to Project Boom from its start in May 2020 are detailed on it's own page.
 
 
 
