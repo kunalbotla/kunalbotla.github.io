@@ -35,4 +35,5 @@ I started building a drone that would fly itself by following an object. Site is
 ### [Pong](//projects.kunalbotla.com/Pong) - Acera School STEAM Symposium Project (May 2017) - Page WIP
 ### [Constitution](//docs.kunalbotla.com/projects/constitution) (2017/2018)
 
-Find more about my projects on [Github](//github.com/kunalbotla) or [kunalbotla.com](//kunalbotla.com). Reach me by email at [kunal@kunalbotla.com](kunal@kunalbotla.com).
+
+Find more about my projects on [GitHub](//github.com/kunalbotla) or [kunalbotla.com](//kunalbotla.com). Reach me by email at [kunal@kunalbotla.com](kunal@kunalbotla.com).
